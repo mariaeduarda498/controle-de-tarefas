@@ -1,0 +1,11 @@
+Objetivo do projeto : Criar uma lista de tarefas.
+Funcionalidade planejamento: Organizar melhor seu dia
+prazo de execução: 1 dia
+Tarefas diária:
+6:13 :acordar
+6:50 :vou pra escola 
+13:30 :senai
+17:30 :ir para casa 
+18:15 chego em casa
+18:20 torma cafe, lavar vasilha.
+21:01 dormir

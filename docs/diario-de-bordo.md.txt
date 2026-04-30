@@ -1,0 +1,11 @@
+O que foi feito: acordar ,vou pra escola ,senai
+ir para casa , chego em casa
+torma cafe, lavar vasilha dormir
+Criando o repositorio, criado os arquivos necessarios,
+cadastrado tarefas,e comitado no arquivosno git;
+
+Dificudades encontradas:Qual a melhor discrição para colocar no commit de forma organizada 
+ Soluçoes aplicadas no projeto(entender o que eu queria que realmente entendessem atraves do commit)
+ na rotina: pensar no feriando de amanha
+ o que sera feito no proximo dia: descanço
+ 
